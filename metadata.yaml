@@ -1,0 +1,39 @@
+_repo: Paddle-and-portage-from-Moosehead-Lake-to-Aroostook-River-Maine_72708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steele, Thomas Sedgwick
+    alias: Steele, Thomas Sedgewick
+    birthdate: 1845
+    deathdate: 1903
+    gutenberg_agent_id: '51512'
+    url: http://www.gutenberg.org/2009/agents/51512
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72708'
+  lccn: 01008876
+language: en
+pgterms:marc904: https://archive.org/details/paddleportagefro00steeiala
+pgterms:marc905: 20231006203934steele
+pgterms:marc906: '1882'
+pgterms:marc907: us
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bEstes and Lauriat, $c1882.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcsh 'Canoes and canoeing'
+- !lcsh 'Maine -- Description and travel'
+- !lcsh 'Piscataquis County (Me.) -- Description and travel'
+- !lcsh 'Aroostook County (Me.) -- Description and travel'
+- !lcsh 'Moosehead Lake (Me.)'
+- !lcsh 'Aroostook River (Me. and N.B.)'
+- !lcc 'F001'
+- GITenberg
+title: Paddle and portage, from Moosehead Lake to Aroostook River, Maine
+url: http://www.gutenberg.org/ebooks/72708
